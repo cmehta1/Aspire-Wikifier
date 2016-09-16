@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 27, 2014, 8:36:06 PM
+    Author     : yash
+*/
+.aspire_selected_text{
+    color: blue;
+}
+
+.aspire_current_selected_text{
+    color: green;
+}
